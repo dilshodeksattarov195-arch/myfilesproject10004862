@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysync",
+        "uuid": 38098632,
+        "checksum": "arg8ti"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
